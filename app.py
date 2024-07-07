@@ -98,7 +98,7 @@ class Catalogo:
 # Cuerpo del programa 
 #-------------------------------------------------------------------- # 
 # Crear una instancia de la clase Catalogo        
-catalogo = Catalogo(host='https://marce2056.pythonanywhere.com/', user='bd.user', password='bd.password', database='bd.database')
+catalogo = Catalogo(host='https://marce2056.pythonanywhere.com', user='bd.user', password='bd.password', database='bd.database')
 
 # Carpeta para guardar las imagenes
 ruta_destino = '/home/marce2056/mysite/static/imagenes/'
